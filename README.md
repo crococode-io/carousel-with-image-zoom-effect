@@ -1,6 +1,6 @@
 # Carousel with image zoom effect
 
-A dead simple Javascript carousel script for cycling through a group of items ( images and content ) with a dot indicator and the arrows. 
+A dead simple Javascript carousel script for cycling through a group of items ( images and content ) with a dot indicator and the arrows.
 
 ![Carousel with image zoom effect](https://raw.githubusercontent.com/crococode-io/images/main/carousel-with-image-zoom-effect.png)
 
